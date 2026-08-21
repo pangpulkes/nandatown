@@ -1,0 +1,20 @@
+NEST Trace Summary
+========================================
+  Total events:       98
+  Agents:             4
+  Messages:           81
+  Correlation IDs:    45
+  Duration:           0.0 ticks
+
+Event breakdown:
+  dropped                   9
+  receive                  36
+  send                     45
+  start                     4
+  stop                      4
+
+Top agents by sends:
+  supplier-0           sent=  15  recv=   6
+  manufacturer-0       sent=  12  recv=  12
+  distributor-0        sent=  10  recv=  10
+  retailer-0           sent=   8  recv=   8
